@@ -15,7 +15,7 @@ Replication Data: Apoyo al Uso de la Fuerza en Política Exterior
 Set de datos que recoge 1035 entrevistas, recolectadas en el marco de un experimento de encuesta.
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
-file <- 'BW_JOP_state_replication_data.dta'</pre></code>
+file <- ''</pre></code>
 
 Replication Data: Voto económico en América Latina, 1982-2014
 ------------------

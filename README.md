@@ -3,7 +3,7 @@ P314 - Técnicas de Análisis Político e Internacional (2024-II)
 
 Last update:
 ------------------
-10-08-2024
+2024-10-08
 
 </br >El presente repositorio contiene diferentes bases de datos utilizadas para realizar ejercicios (en clase y fuera de clase) en el curso <b>Técnicas de Análisis Político e Internacional</b>, del Departamento de Ciencias Sociales (Universidad de San Andrés), correspondiente al segundo semestre de 2024.
 
@@ -19,6 +19,8 @@ Los datos reunen 1035 entrevistas, recolectadas en el marco de un experimento de
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
 file <- 'Kertzoff_Data_2017.csv'</pre></code>
 
+Disponible en: https://doi.org/10.7910/DVN/QSXDUN, accedido: 2024-10-08.
+
 Replication Data: Valdini & Lewis-Beck (2018)
 ------------------
 
@@ -29,4 +31,4 @@ Los datos reunen un set de 93 elecciones latinoamericanas, ocurridas entre 1982 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
 file <- 'MEVMLB_TABLE4_Data.csv'</pre></code>
 
-Disponible en: http://doi.org/10.7910/DVN/4XI0UG, accedido: 10-08-2024.
+Disponible en: https://doi.org/10.7910/DVN/4XI0UG, accedido: 2024-10-08.

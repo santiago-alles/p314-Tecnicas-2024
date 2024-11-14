@@ -3,7 +3,7 @@ P314 - Técnicas de Análisis Político e Internacional (2024-II)
 
 Last update:
 ------------------
-2024-10-08
+2024-11-14
 
 </br >El presente repositorio contiene diferentes bases de datos utilizadas para realizar ejercicios (en clase y fuera de clase) en el curso <b>Técnicas de Análisis Político e Internacional</b>, del Departamento de Ciencias Sociales (Universidad de San Andrés), correspondiente al segundo semestre de 2024.
 
@@ -32,3 +32,12 @@ Los datos reunen un set de 93 elecciones latinoamericanas, ocurridas entre 1982 
 file <- 'MEVMLB_TABLE4_Data.csv'</pre></code>
 
 Disponible en: https://doi.org/10.7910/DVN/4XI0UG, accedido: 2024-10-08.
+
+Replication Data: Reeves & Rogowski (2018)
+------------------
+
+Set de datos para replicar resultados publicados en Andrew <b>Reeves</b> and Jon C. <b>Rogowski</b>. 2018. The Public Cost of Unilateral Action. <i>American Journal of Political Science</i> 62 (2): 424-440. DOI: 10.1111/ajps.12340
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
+file <- 'RR-AJPS-taps-processed.RData'</pre></code>
+

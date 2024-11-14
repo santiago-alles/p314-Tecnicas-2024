@@ -39,5 +39,12 @@ Replication Data: Reeves & Rogowski (2018)
 Set de datos para replicar resultados publicados en Andrew <b>Reeves</b> and Jon C. <b>Rogowski</b>. 2018. The Public Cost of Unilateral Action. <i>American Journal of Political Science</i> 62 (2): 424-440. DOI: 10.1111/ajps.12340
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
-file <- 'RR-AJPS-taps-processed.RData'</pre></code>
+file <- 'RR-AJPS-taps-processed.csv'</pre></code>
 
+Replication Data: Goldman (2018)
+------------------
+
+Set de datos para replicar resultados publicados en Seth K. <b>Goldman</b>. 2018. Fear of Gender Favoritism and Vote Choice during the 2008 Presidential Primaries. <i>The Journal of Politics</i> 80 (3): 786–799. DOI: 10.1086/697123
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
+file <- ''</pre></code>

@@ -61,3 +61,11 @@ Set de datos para replicar resultados publicados en Søren Frank <b>Etzerodt</b>
 file_1 <- 'anes_timeseries_cdf_stata_20220916_2012.csv'
 file_2 <- 'anes_timeseries_cdf_stata_20220916_2016.csv'
 file_3 <- 'anes_timeseries_cdf_stata_20220916_2020.csv'</pre></code>
+
+Replication Data: The Texas Politics Project (2022)
+------------------
+
+Set de encuestas sobre identificación política, posición ideológica, etc. recolectada por The University of Texas at Austin. Disponible en: <https://texaspolitics.utexas.edu/polling-data-archive>.
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
+file <- 'TexasPoliticsProject_UTAustin.dta'</pre></code>

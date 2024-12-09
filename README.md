@@ -41,10 +41,21 @@ Set de datos para replicar resultados publicados en Andrew <b>Reeves</b> and Jon
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
 file <- 'RR-AJPS-taps-processed.csv'</pre></code>
 
-Replication Data: Goldman (2018)
+Disponible en: https://doi.org/10.7910/DVN/XRJ43D, accedido: 2024-10-08.
+
+Replication Data: Lupu (2010)
 ------------------
 
-Set de datos para replicar resultados publicados en Seth K. <b>Goldman</b>. 2018. Fear of Gender Favoritism and Vote Choice during the 2008 Presidential Primaries. <i>The Journal of Politics</i> 80 (3): 786–799. DOI: 10.1086/697123
+Set de datos para replicar resultados publicados en Noam <b>Lupu</b>. 2010. Who Votes for Chavismo? Class Voting in Hugo Chávez's Venezuela. <i>Latin American Research Review</i> 45 (1): 7-32. DOI: 10.1353/lar.0.0083
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
-file <- ''</pre></code>
+file <- 'Lupu2010.dta'</pre></code>
+
+Replication Data: Etzerodt (2024)
+------------------
+
+Set de datos para replicar resultados publicados en Søren Frank <b>Etzerodt</b>. 2024. The Electoral Consequences of Abortion Politicization in the US. <i>European Journal of Politics and Gender
+</i>, forthcoming. DOI: 10.1332/25151088Y2024D000000049
+
+<pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
+file <- 'anes_timeseries_cdf_stata_20220916.dta'</pre></code>

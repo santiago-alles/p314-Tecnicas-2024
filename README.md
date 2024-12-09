@@ -58,4 +58,6 @@ Set de datos para replicar resultados publicados en Søren Frank <b>Etzerodt</b>
 </i>, forthcoming. DOI: 10.1332/25151088Y2024D000000049
 
 <pre><code>url <- 'https://raw.githubusercontent.com/santiago-alles/p314-Tecnicas-2024/master/'
-file <- 'anes_timeseries_cdf_stata_20220916.dta'</pre></code>
+file_1 <- 'anes_timeseries_cdf_stata_20220916_2012.csv'
+file_2 <- 'anes_timeseries_cdf_stata_20220916_2016.csv'
+file_3 <- 'anes_timeseries_cdf_stata_20220916_2020.csv'</pre></code>
